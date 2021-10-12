@@ -77,7 +77,7 @@
     "babel-polyfill": "^6.26.0",
     "copy-webpack-plugin": "^5.0.2",
     "css-loader": "^2.1.0",
-    "electron": "^4.0.4",
+    "electron": "^11.5.0",
     "electron-builder": "^20.40.2",
     "electron-packager": "^13.1.1",
     "electron-renderer": "^2.0.4",
